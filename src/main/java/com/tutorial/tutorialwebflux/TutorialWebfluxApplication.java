@@ -1,4 +1,4 @@
-package com.tutorial.tutorial_webflux;
+package com.tutorial.tutorialwebflux;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
